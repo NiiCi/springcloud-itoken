@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-itoken-dependencies/spring-cloud-itoken-dependencies.iml" filepath="$PROJECT_DIR$/spring-cloud-itoken-dependencies/spring-cloud-itoken-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloud-itoken.iml" filepath="$PROJECT_DIR$/.idea/springcloud-itoken.iml" />
+    </modules>
+  </component>
+</project>
